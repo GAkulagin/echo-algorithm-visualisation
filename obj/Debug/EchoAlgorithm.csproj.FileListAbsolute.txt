@@ -1,0 +1,15 @@
+C:\Users\Professional\Desktop\учеба\Распределенные вычисления\LR6_WaveAlgs\Echo\EchoAlgorithm\bin\Debug\EchoAlgorithm.exe.config
+C:\Users\Professional\Desktop\учеба\Распределенные вычисления\LR6_WaveAlgs\Echo\EchoAlgorithm\bin\Debug\EchoAlgorithm.exe
+C:\Users\Professional\Desktop\учеба\Распределенные вычисления\LR6_WaveAlgs\Echo\EchoAlgorithm\bin\Debug\EchoAlgorithm.pdb
+C:\Users\Professional\Desktop\учеба\Распределенные вычисления\LR6_WaveAlgs\Echo\EchoAlgorithm\bin\Debug\AutomaticGraphLayout.dll
+C:\Users\Professional\Desktop\учеба\Распределенные вычисления\LR6_WaveAlgs\Echo\EchoAlgorithm\bin\Debug\AutomaticGraphLayout.Drawing.dll
+C:\Users\Professional\Desktop\учеба\Распределенные вычисления\LR6_WaveAlgs\Echo\EchoAlgorithm\bin\Debug\Microsoft.Msagl.GraphViewerGdi.dll
+C:\Users\Professional\Desktop\учеба\Распределенные вычисления\LR6_WaveAlgs\Echo\EchoAlgorithm\obj\Debug\EchoAlgorithm.csproj.AssemblyReference.cache
+C:\Users\Professional\Desktop\учеба\Распределенные вычисления\LR6_WaveAlgs\Echo\EchoAlgorithm\obj\Debug\EchoAlgorithm.csproj.SuggestedBindingRedirects.cache
+C:\Users\Professional\Desktop\учеба\Распределенные вычисления\LR6_WaveAlgs\Echo\EchoAlgorithm\obj\Debug\EchoAlgorithm.Properties.Resources.resources
+C:\Users\Professional\Desktop\учеба\Распределенные вычисления\LR6_WaveAlgs\Echo\EchoAlgorithm\obj\Debug\EchoAlgorithm.csproj.GenerateResource.cache
+C:\Users\Professional\Desktop\учеба\Распределенные вычисления\LR6_WaveAlgs\Echo\EchoAlgorithm\obj\Debug\EchoAlgorithm.csproj.CoreCompileInputs.cache
+C:\Users\Professional\Desktop\учеба\Распределенные вычисления\LR6_WaveAlgs\Echo\EchoAlgorithm\obj\Debug\EchoAlgorithm.csproj.CopyComplete
+C:\Users\Professional\Desktop\учеба\Распределенные вычисления\LR6_WaveAlgs\Echo\EchoAlgorithm\obj\Debug\EchoAlgorithm.exe
+C:\Users\Professional\Desktop\учеба\Распределенные вычисления\LR6_WaveAlgs\Echo\EchoAlgorithm\obj\Debug\EchoAlgorithm.pdb
+C:\Users\Professional\Desktop\учеба\Распределенные вычисления\LR6_WaveAlgs\Echo\EchoAlgorithm\obj\Debug\EchoAlgorithm.Form1.resources
